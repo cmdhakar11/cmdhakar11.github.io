@@ -6683,6 +6683,7 @@ a.bg-dark:hover {
 }
 
 .mb-0 {
+    padding-left: 1rem;
     margin-bottom: 0!important
 }
 
@@ -6923,6 +6924,7 @@ a.bg-dark:hover {
 }
 
 .pb-2 {
+    padding-left: 1rem ;
     padding-bottom: .5rem!important
 }
 
